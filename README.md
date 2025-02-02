@@ -5,13 +5,9 @@ This repository is dedicated to deep learning concepts, covering activation func
 
 ## 📂 Repository Structure  
 
-- **activation_functions.ipynb** – Explanation and visualization of different activation functions.  
-- **batchGradient.ipynb** – Implementation of Batch Gradient Descent.  
-- **stochasticGradient.ipynb** – Implementation of Stochastic Gradient Descent.  
-- **mlpClassifier_MNIST.ipynb** – MLP classifier for handwritten digit recognition using the MNIST dataset.  
-- **mlpClassifier_cifar.ipynb** – MLP classifier for classifying CIFAR dataset images.  
-- **mlpClassifier_iris.ipynb** – MLP classifier for the Iris dataset.  
-- **homeprices_banglore.csv** – Dataset for predicting house prices in Bangalore.  
+- **Gradient Descent** – Implementation of various variants of Gradient Descent, including Stochastic Gradient Descent, Batch Gradient Descent, and more. 
+- **Multi-Layer Perceptron** – Implementation of MLP classifiers using various datasets for training and evaluation.
+- **activation_functions.ipynb** -  Implementation and analysis of various activation functions used in neural networks.
 
 ## 🚀 Getting Started  
 
