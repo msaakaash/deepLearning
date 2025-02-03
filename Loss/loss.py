@@ -7,3 +7,16 @@ def mse_loss(ytrue,ypred):
 #Mean Absolute Error
 def mae_loss(ytrue,ypred):
     return abs(ytrue-ypred).mean()
+
+#Mean Squared Logarithmic Error
+def msle(ytrue,ypred):
+    ytrue = np.array(ytrue)
+    ypred = np.array(ypred)
+
+    ytrue = np.log(ytrue+1)
+    ypred = np.log(ypred+1)
+
+    squared = np.square(ytrue - ypred)
+    msle_value = np.mean(squared)
+    return msle_value
+##yet to be updated
