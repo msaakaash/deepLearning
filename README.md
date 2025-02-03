@@ -39,6 +39,7 @@ jupyter notebook
 ## 🔥 Key Topics Covered  
 ✔ Activation Functions in Neural Networks  
 ✔ Gradient Descent Variants  
+✔ Loss Functions.
 ✔ Multi-Layer Perceptron (MLP) Models  
 ✔ Image Classification with Neural Networks  
 
