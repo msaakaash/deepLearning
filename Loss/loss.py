@@ -19,4 +19,10 @@ def msle(ytrue,ypred):
     squared = np.square(ytrue - ypred)
     msle_value = np.mean(squared)
     return msle_value
+
+#Binary CrossEntropy
+def binary_crossentropy(ytrue,ypred,epsilon=1e-15):
+    ypred = np.clip(ypred,epsilon,1-epsilon)
+    return -1*np.mean((ytrue*np.log(ypred))+((1-ytrue)*np.log(1-ypred)))
+
 ##yet to be updated
