@@ -34,11 +34,12 @@ jupyter notebook
 - **MNIST**: A dataset for handwritten digit classification.  
 - **CIFAR**: A popular dataset for image classification tasks.  
 - **Iris**: A classic dataset used for classification tasks.  
-- **Bangalore Home Prices**: A dataset for real estate price prediction.  
+
 
 ## 🔥 Key Topics Covered  
 ✔ Activation Functions in Neural Networks  
 ✔ Gradient Descent Variants  
+✔ Loss Functions.
 ✔ Multi-Layer Perceptron (MLP) Models  
 ✔ Image Classification with Neural Networks  
 
