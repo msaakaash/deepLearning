@@ -5,6 +5,7 @@ This repository is dedicated to deep learning concepts, covering activation func
 
 ## 📂 Repository Structure  
 
+- **CNN** - Implementation of Convolutional Neural Networks.
 - **Gradient Descent** – Implementation of various variants of Gradient Descent, including Stochastic Gradient Descent, Batch Gradient Descent, and more.
 - **Loss** - Implementation of various loss functions.
 - **Multi-Layer Perceptron** – Implementation of MLP classifiers using various datasets for training and evaluation.
@@ -37,14 +38,14 @@ jupyter notebook
 
 
 ## 🔥 Key Topics Covered  
-✔ Activation Functions in Neural Networks  
-✔ Gradient Descent Variants  
-✔ Loss Functions.
+✔ Activation Functions in Neural Networks.  
+✔ Gradient Descent Variants.  
 ✔ Multi-Layer Perceptron (MLP) Models  
-✔ Image Classification with Neural Networks  
+✔ Image Classification with using CNN.
+✔ Loss Functions.
 
 ## 🛠️ Future Improvements  
-- Implement Convolutional Neural Networks (CNNs).  
+- Implementing RNN architecture.
 - Explore additional optimization techniques.  
 - Add more advanced deep learning models.  
 
