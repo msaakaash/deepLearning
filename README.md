@@ -5,6 +5,7 @@ This repository is dedicated to deep learning concepts, covering activation func
 
 ## 📂 Repository Structure  
 
+-**CNN** - Implementation of Convolutional Neural Network.
 - **Gradient Descent** – Implementation of various variants of Gradient Descent, including Stochastic Gradient Descent, Batch Gradient Descent, and more.
 - **Loss** - Implementation of various loss functions.
 - **Multi-Layer Perceptron** – Implementation of MLP classifiers using various datasets for training and evaluation.
