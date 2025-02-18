@@ -5,11 +5,25 @@ This repository is dedicated to deep learning concepts, covering activation func
 
 ## 📂 Repository Structure  
 
-- **CNN** - Implementation of Convolutional Neural Networks.
-- **Gradient Descent** – Implementation of various variants of Gradient Descent, including Stochastic Gradient Descent, Batch Gradient Descent, and more.
-- **Loss** - Implementation of various loss functions.
-- **Multi-Layer Perceptron** – Implementation of MLP classifiers using various datasets for training and evaluation.
-- **activation_functions.ipynb** -  Implementation and analysis of various activation functions used in neural networks.
+
+```
+├── 📂 CNN
+│   ├──cifar10.ipynb 
+├── 📂 Gradient Descent
+│   ├──batchGradient.ipynb
+│   ├──stochasticGradient.ipynb
+├── 📂 Loss
+│   ├──loss.py
+├── 📂 Multi-Layer Perceptron
+│   ├──mlpClassifier_MNIST.ipynb
+│   ├──mlpClassifier_cifar.ipynb
+│   ├──mlpClassifier_iris.ipynb
+├── 📂 NLP
+│   ├──preprocessing.ipynb
+├── README.md
+├── activation_functions.ipynb
+
+```
 
 ## 🚀 Getting Started  
 
@@ -20,16 +34,44 @@ To run the notebooks, ensure you have the following installed:
 - TensorFlow / PyTorch  
 - NumPy, Pandas, Matplotlib  
 
-### Installation  
-Clone the repository:  
-```bash
-git clone https://github.com/msaakaash/deepLearning.git
-cd deepLearning
+## ⚙️ Installation Guide
+
+## 1️⃣ Fork the Repository
+- **Click the **Fork** button (top-right corner).**
+- **This creates a copy of the repository under your GitHub account.**
+
+## 2️⃣ Clone Your Forked Repository
+```sh
+git clone https://github.com/your-username/deepLearning.git
+cd chatbots
 ```
-Run Jupyter Notebook:  
-```bash
-jupyter notebook
+> Replace `your-username` with your actual GitHub username.
+
+## 3️⃣ Create a New Branch (For Your Changes)
+```sh
+git checkout -b feature-branch
 ```
+> Replace `feature-branch` with a meaningful branch name.
+
+## 4️⃣ Make Changes and Commit
+Modify the code, then stage and commit:
+```sh
+git add .
+git commit -m "Description of changes"
+```
+
+## 5️⃣ Push Changes to Your Forked Repository
+```sh
+git push origin feature-branch
+```
+
+## 6️⃣ Create a Pull Request (PR)
+1. Go to **your forked repository**.
+2. Click on **Compare & pull request**.
+3. Ensure the **base repository** is the original repo and the **head repository** is your fork.
+4. Add a meaningful title and description.
+5. Click **Create pull request**.
+
 
 ## 📊 Datasets  
 - **MNIST**: A dataset for handwritten digit classification.  
@@ -38,11 +80,16 @@ jupyter notebook
 
 
 ## 🔥 Key Topics Covered  
-✔ Activation Functions in Neural Networks.  
-✔ Gradient Descent Variants.  
-✔ Multi-Layer Perceptron (MLP) Models  
-✔ Image Classification with using CNN.
-✔ Loss Functions.
+
+| Topic | Description |
+|-------------------------------|------------------------------------------------|
+| ✔ Activation Functions        | Understanding different activation functions used in neural networks. |
+| ✔ Gradient Descent Variants   | Exploring different types of gradient descent algorithms. |
+| ✔ Multi-Layer Perceptron (MLP) Models | Studying MLP architecture and its applications. |
+| ✔ Image Classification using CNN | Implementing CNNs for image classification tasks. |
+| ✔ Loss Functions              | Understanding various loss functions used in deep learning. |
+| ✔ Natural Language Processing (NLP) | Techniques and models for text processing and analysis. |
+
 
 ## 🛠️ Future Improvements  
 - Implementing RNN architecture.
