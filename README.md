@@ -20,6 +20,8 @@ This repository is dedicated to deep learning concepts, covering activation func
 │   ├──mlpClassifier_iris.ipynb
 ├── 📂 NLP
 │   ├──preprocessing.ipynb
+├── 📂 RNN
+│   ├──sms_spam_detection_rnn.ipynb
 ├── README.md
 ├── activation_functions.ipynb
 
@@ -43,7 +45,7 @@ To run the notebooks, ensure you have the following installed:
 ## 2️⃣ Clone Your Forked Repository
 ```sh
 git clone https://github.com/your-username/deepLearning.git
-cd chatbots
+cd deepLearning
 ```
 > Replace `your-username` with your actual GitHub username.
 
@@ -76,7 +78,8 @@ git push origin feature-branch
 ## 📊 Datasets  
 - **MNIST**: A dataset for handwritten digit classification.  
 - **CIFAR**: A popular dataset for image classification tasks.  
-- **Iris**: A classic dataset used for classification tasks.  
+- **Iris**: A classic dataset used for classification tasks.
+- **SMS Spam Collection**: A dataset containing spam and ham messages
 
 
 ## 🔥 Key Topics Covered  
@@ -89,7 +92,7 @@ git push origin feature-branch
 | ✔ Image Classification using CNN | Implementing CNNs for image classification tasks. |
 | ✔ Loss Functions              | Understanding various loss functions used in deep learning. |
 | ✔ Natural Language Processing (NLP) | Techniques and models for text processing and analysis. |
-
+| ✔ Recurrent Neural Network (RNN) | Sequential data processing excels in tasks like text analysis and language modeling.. |
 
 ## 🛠️ Future Improvements  
 - Implementing RNN architecture.
