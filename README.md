@@ -95,6 +95,8 @@ git push origin feature-branch
 | ✔ Loss Functions              | Understanding various loss functions used in deep learning. |
 | ✔ Natural Language Processing (NLP) | Techniques and models for text processing and analysis. |
 | ✔ Recurrent Neural Network (RNN) | Sequential data processing excels in tasks like text analysis and language modeling.. |
+| ✔ Long Short-Term Memory (LSTM) | An advanced RNN variant designed to handle long-range dependencies in sequences. |
+
 
 ## 🛠️ Future Improvements  
 - Implementing RNN architecture.
