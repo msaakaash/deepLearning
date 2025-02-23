@@ -12,6 +12,8 @@ This repository is dedicated to deep learning concepts, covering activation func
 ├── 📂 Gradient Descent
 │   ├──batchGradient.ipynb
 │   ├──stochasticGradient.ipynb
+├── 📂 LSTM
+│   ├──README.md
 ├── 📂 Loss
 │   ├──loss.py
 ├── 📂 Multi-Layer Perceptron
