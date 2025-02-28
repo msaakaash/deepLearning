@@ -13,6 +13,7 @@ This repository is dedicated to deep learning concepts, covering activation func
 │   ├──batchGradient.ipynb
 │   ├──stochasticGradient.ipynb
 ├── 📂 LSTM
+│   ├──Daily_Demand_Forecasting_Orders.ipynb
 │   ├──README.md
 ├── 📂 Loss
 │   ├──loss.py
