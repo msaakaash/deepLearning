@@ -27,7 +27,7 @@ This repository is dedicated to deep learning concepts, covering activation func
 |   |──📂 Dataset
 │       ├──Fake.csv
 │       ├──True.csv           
-├── fakeNewsDetection_DistilBert.ipy
+├── fakeNewsDetection_DistilBert.ipynb
 ├── 📂 RNN
 │   ├──sms_spam_detection_rnn.ipynb
 ├── README.md
