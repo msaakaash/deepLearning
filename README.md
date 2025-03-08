@@ -14,7 +14,6 @@ This repository is dedicated to deep learning concepts, covering activation func
 │   ├──stochasticGradient.ipynb
 ├── 📂 LSTM
 │   ├──Daily_Demand_Forecasting_Orders.ipynb
-│   ├──README.md
 ├── 📂 Loss
 │   ├──loss.py
 ├── 📂 Multi-Layer Perceptron
