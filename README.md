@@ -110,6 +110,7 @@ git push origin feature-branch
 
 ## 🛠️ Future Improvements  
 - Implementing autoencoders.
+- Implementing probabilistic models.
 - Explore additional optimization techniques.  
 - Add more advanced deep learning models.  
 
