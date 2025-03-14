@@ -1,7 +1,8 @@
 # 🧠 DEEP LEARNING  
 
 ## 📌 Overview  
-This repository is dedicated to deep learning concepts, covering activation functions, gradient descent techniques, and multi-layer perceptron (MLP) classifiers for various datasets. It serves as a great starting point for understanding and implementing deep learning models.  
+
+This repository is dedicated to deep learning concepts, covering activation functions, optimization techniques, and general deep learning architectures for various datasets. It serves as a great starting point for understanding and implementing deep learning models. 
 
 ## 📂 Repository Structure  
 
@@ -29,10 +30,12 @@ This repository is dedicated to deep learning concepts, covering activation func
 ├── fakeNewsDetection_DistilBert.ipynb
 ├── 📂 RNN
 │   ├──sms_spam_detection_rnn.ipynb
+├── 📂 autoencoder
 ├── README.md
 ├── activation_functions.ipynb
 
 ```
+
 
 ## 🚀 Getting Started  
 
@@ -106,7 +109,8 @@ git push origin feature-branch
 
 
 ## 🛠️ Future Improvements  
-- Implementing RNN architecture.
+- Implementing autoencoders.
+- Implementing probabilistic models.
 - Explore additional optimization techniques.  
 - Add more advanced deep learning models.  
 
