@@ -7,36 +7,7 @@ This repository is dedicated to deep learning concepts, covering activation func
 ## 📂 Repository Structure  
 
 
-```
-├── 📂 CNN
-│   ├──butterflyClassification.ipynb 
-│   ├──cifar10.ipynb
-│   ├──mnist.ipynb 
-├── 📂 Gradient Descent
-│   ├──batchGradient.ipynb
-│   ├──stochasticGradient.ipynb
-├── 📂 LSTM
-│   ├──Daily_Demand_Forecasting_Orders.ipynb
-├── 📂 Loss
-│   ├──loss.py
-├── 📂 Multi-Layer Perceptron
-│   ├──mlpClassifier_MNIST.ipynb
-│   ├──mlpClassifier_cifar.ipynb
-│   ├──mlpClassifier_iris.ipynb
-├── 📂 NLP
-│   ├──preprocessing.ipynb
-├── 📂 Pretrained-Models
-|   |──📂 Dataset
-│       ├──Fake.csv
-│       ├──True.csv           
-├── fakeNewsDetection_DistilBert.ipynb
-├── 📂 RNN
-│   ├──sms_spam_detection_rnn.ipynb
-├── 📂 autoencoder
-├── README.md
-├── activation_functions.ipynb
 
-```
 
 
 ## 🚀 Getting Started  
