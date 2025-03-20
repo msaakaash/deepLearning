@@ -1,0 +1,26 @@
+## download the dataset
+import os
+import pandas as pd
+from urllib.request import urlretrieve
+
+def load_demand_dataset():
+    # URL for the UCI dataset
+    dataset_url = "https://archive.ics.uci.edu/ml/machine-learning-databases/00409/Daily_Demand_Forecasting_Orders.csv"
+    local_filename = "Daily_Demand_Forecasting_Orders.csv"
+
+    # Download the file if it doesn't exist
+    if not os.path.exists(local_filename):
+        print("Downloading dataset...")
+        urlretrieve(dataset_url, local_filename)
+
+    # Load the dataset
+    df = pd.read_csv(local_filename, delimiter=';', decimal=',')
+    print(f"Dataset loaded with shape: {df.shape}")
+    return df
+
+
+
+
+## load the downloaded dataset
+df = load_demand_dataset()
+df.head(5)
