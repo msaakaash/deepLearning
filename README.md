@@ -9,7 +9,9 @@ This repository is dedicated to deep learning concepts, covering activation func
 
 ```
 ├── 📂 CNN
-│   ├──cifar10.ipynb 
+│   ├──butterflyClassification.ipynb 
+│   ├──cifar10.ipynb
+│   ├──mnist.ipynb 
 ├── 📂 Gradient Descent
 │   ├──batchGradient.ipynb
 │   ├──stochasticGradient.ipynb
