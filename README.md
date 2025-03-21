@@ -4,9 +4,17 @@
 
 This repository is dedicated to deep learning concepts, covering activation functions, optimization techniques, and general deep learning architectures for various datasets. It serves as a great starting point for understanding and implementing deep learning models. 
 
-## 📂 Repository Structure  
-
-
+ 
+## Checklist
+- [x] Gradient Descent
+- [x] Loss
+- [x] Activation Functions
+- [x] Multi-layer Perceptron
+- [x] Convolutional Neural Network
+- [x] Recurrent Neural Network
+- [x] Long-Short Term Memory
+- [ ] Autoencoder
+- [ ] Pretrained - Models
 
 
 
