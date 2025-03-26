@@ -13,7 +13,7 @@ This repository is dedicated to deep learning concepts, covering activation func
 - [x] Convolutional Neural Network
 - [x] Recurrent Neural Network
 - [x] Long-Short Term Memory
-- [ ] Autoencoder
+- [x] Autoencoder
 - [ ] Pretrained - Models
 
 
