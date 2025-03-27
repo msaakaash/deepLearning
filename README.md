@@ -76,8 +76,6 @@ git push origin feature-branch
 | ✔ Multi-Layer Perceptron (MLP) Models | Studying MLP architecture and its applications. |
 | ✔ Image Classification using CNN | Implementing CNNs for image classification tasks. |
 | ✔ Loss Functions              | Understanding various loss functions used in deep learning. |
-| ✔ Natural Language Processing (NLP) | Techniques and models for text processing and analysis. |
-| ✔ Pretrained Models | Using pretrained deep learning models such as BERT (NLP), ResNet (Computer Vision), and GPT (Generative AI) to leverage transfer learning for various tasks. |
 | ✔ Recurrent Neural Network (RNN) | Sequential data processing excels in tasks like text analysis and language modeling.. |
 | ✔ Long Short-Term Memory (LSTM) | An advanced RNN variant designed to handle long-range dependencies in sequences. |
 
