@@ -66,13 +66,6 @@ git push origin feature-branch
 5. Click **Create pull request**.
 
 
-## 📊 Datasets  
-- **MNIST**: A dataset for handwritten digit classification.  
-- **CIFAR**: A popular dataset for image classification tasks.  
-- **Iris**: A classic dataset used for classification tasks.
-- **SMS Spam Collection**: A dataset containing spam and ham messages.
-- **Daily_Demand_Forecasting_Orders**: A dataset containing daily orders and forecast the amount of orders.
-
 
 ## 🔥 Key Topics Covered  
 
