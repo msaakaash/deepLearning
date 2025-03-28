@@ -1,4 +1,4 @@
-# 🧠 DEEP LEARNING  
+<h1 align="center">🧠 DEEP LEARNING </h1>
 
 ## 📌 Overview  
 
