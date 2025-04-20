@@ -1,4 +1,4 @@
-# 🧠 DEEP LEARNING  
+<h1 align="center">🧠 DEEP LEARNING </h1>
 
 ## 📌 Overview  
 
@@ -91,4 +91,7 @@ Contributions are welcome! Feel free to fork the repository, work on new feature
 
 ## 📝 License  
 This project is licensed under the MIT License.  
+
+## Author
+[**Aakaash M S**](https://github.com/msaakaash)
 
