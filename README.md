@@ -27,7 +27,7 @@ To run the notebooks, ensure you have the following installed:
 - TensorFlow / PyTorch  
 - NumPy, Pandas, Matplotlib  
 
-## ⚙️ Installation Guide
+## Installation Guide
 
 ## Fork the Repository
 - **Click the **Fork** button (top-right corner).**
