@@ -88,6 +88,10 @@ git push origin feature-branch
 ## Contributing  
 Contributions are welcome! Feel free to fork the repository, work on new features, and submit pull requests.  
 
+## Code of Conduct
+Please read our [Code of Conduct](./CODE_OF_CONDUCT.md) before contributing to this project.
+
+
 ## License  
 This project is licensed under the [MIT License](LICENSE).  
 
