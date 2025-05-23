@@ -91,6 +91,9 @@ Contributions are welcome! Feel free to fork the repository, work on new feature
 ## Code of Conduct
 Please read our [Code of Conduct](./CODE_OF_CONDUCT.md) before contributing to this project.
 
+## Security
+If you discover a vulnerability, please refer to our [Security Policy](./SECURITY.md) for instructions on how to report it responsibly.
+
 
 ## License  
 This project is licensed under the [MIT License](LICENSE).  
