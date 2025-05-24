@@ -66,10 +66,5 @@ git fetch upstream
 git merge upstream/main  
 ```  
 
-## Code of Conduct  
-Please read our [Code of Conduct](docs/CODE_OF_CONDUCT.md) before participating. Be respectful and professional.  
-
-## License  
-By contributing, you agree that your contributions will be licensed under the [MIT License](docs/LICENSE).  
-
-Thank you for making this project better! — Aakaash M S 
+## Need Help?
+Open an issue or discussion. We’re happy to support your contribution!
