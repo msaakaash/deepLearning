@@ -85,14 +85,14 @@ git push origin feature-branch
 - Explore additional optimization techniques.  
 - Add more advanced deep learning models.  
 
-## Contributing  
-Contributions are welcome! Feel free to fork the repository, work on new features, and submit pull requests.  
+## Contributing
+Contributions are welcome! Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines.
 
 ## Code of Conduct
-Please read our [Code of Conduct](./CODE_OF_CONDUCT.md) before contributing to this project.
+Please read our [Code of Conduct](docs/CODE_OF_CONDUCT.md) before contributing to this project.
 
 ## Security
-If you discover a vulnerability, please refer to our [Security Policy](./SECURITY.md) for instructions on how to report it responsibly.
+If you discover a vulnerability, please refer to our [Security Policy](docs/SECURITY.md) for instructions on how to report it responsibly.
 
 
 ## License  
